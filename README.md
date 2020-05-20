@@ -10,7 +10,7 @@ graalvm-ce-java11-20.1.0
 
 2.环境是maven3
 
-3.生成运行时代码
+3.父模块下生成运行时代码
 
 ```
 mvn package
