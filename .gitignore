@@ -1,0 +1,7 @@
+*.iml
+.idea
+
+# Project exclude paths
+/language/target/
+/launcher/target/
+/target/
